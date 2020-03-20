@@ -3,7 +3,7 @@
 2) Syntax to run: python <path_to_this_file> -i <path_to_the_image>
 3) Make sure you give correct path to colors.csv file in pd.read_csv(<pathToColorsFile>)
 
-#Resorces - Obtained colors.csv file from internet
+#Resources - Obtained colors.csv file from internet
 '''
 
 #OpenCV - Library employed for image processing techniques
